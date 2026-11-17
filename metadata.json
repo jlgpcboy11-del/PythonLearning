@@ -1,0 +1,6 @@
+{
+  "name": "PyCraft 學苑",
+  "description": "從零開始掌握 Python 程式設計：結合互動式程式碼編輯器、單步執行記憶體視覺化、系統化課程與即時測驗的現代化學習平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
